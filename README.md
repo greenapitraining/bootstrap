@@ -18,7 +18,7 @@
   ·
   <a href="https://themes.getbootstrap.com/">Themes</a>
   ·
-  <a href="https://blog.getbootstrap.com/">Blog</a>
+  <a href="https://blog.getbootstrap.com/">Blog [BEN]</a>
 </p>
 
 
